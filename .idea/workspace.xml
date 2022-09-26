@@ -5,14 +5,8 @@
     <option name="CUSTOM_SCOPE_NAME" value="Current File" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e999f0-9b6c-405f-8c16-15ec0643dae9" name="Changes" comment="Add tasks and javadoc">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="c1e999f0-9b6c-405f-8c16-15ec0643dae9" name="Changes" comment="Add tasks">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +40,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664223142922</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add tasks">
+      <created>1664224401228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664224401228</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,6 +63,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add tasks and javadoc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add tasks and javadoc" />
+    <MESSAGE value="Add tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tasks" />
   </component>
 </project>
